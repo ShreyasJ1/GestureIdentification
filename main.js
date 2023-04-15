@@ -1,5 +1,4 @@
 prediction1 = "";
-prediction2 = "";
 
 Webcam.set({
     width: 350,
